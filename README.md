@@ -71,19 +71,19 @@ Luego se muestran en una tabla con Bootstrap.
 
 1. Abrir la carpeta `appscreeningproveedor.Server`
 2. Ejecutar:
-
+```
 dotnet restore  
 dotnet build  
 dotnet run
-
+```
 ### Frontend
 
 1. Ir al directorio React (por ejemplo `ClientApp/`)
 2. Ejecutar:
-
+```
 npm install  
 npm run dev
-
+```
 ---
 
 ## Contacto
